@@ -5,3 +5,4 @@
 game
 *.out
 *.exe
+.cache/
